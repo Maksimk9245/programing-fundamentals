@@ -1,3 +1,0 @@
-C:/cppProj/programing-fundamentals/cmake-build-debug/CMakeFiles/programing_fundamentals.dir
-C:/cppProj/programing-fundamentals/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/cppProj/programing-fundamentals/cmake-build-debug/CMakeFiles/rebuild_cache.dir
