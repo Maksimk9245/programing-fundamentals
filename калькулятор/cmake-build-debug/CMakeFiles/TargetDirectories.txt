@@ -1,0 +1,3 @@
+C:/cppProj/programing-fundamentals/калькулятор/cmake-build-debug/CMakeFiles/Calculator.dir
+C:/cppProj/programing-fundamentals/калькулятор/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/cppProj/programing-fundamentals/калькулятор/cmake-build-debug/CMakeFiles/rebuild_cache.dir
